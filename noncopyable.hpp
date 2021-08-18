@@ -1,5 +1,5 @@
-#ifndef __NONCOPYABLE__
-#define __NONCOPYABLE__
+#ifndef RAINE__NONCOPYABLE__H
+#define RAINE__NONCOPYABLE__H
 namespace raine {
     class noncopyable {
     public:

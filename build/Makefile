@@ -201,6 +201,30 @@ Thread.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_math.dir/build.make CMakeFiles/graph_math.dir/Thread.cpp.s
 .PHONY : Thread.cpp.s
 
+base/LogStream.o: base/LogStream.cpp.o
+.PHONY : base/LogStream.o
+
+# target to build an object file
+base/LogStream.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_math.dir/build.make CMakeFiles/graph_math.dir/base/LogStream.cpp.o
+.PHONY : base/LogStream.cpp.o
+
+base/LogStream.i: base/LogStream.cpp.i
+.PHONY : base/LogStream.i
+
+# target to preprocess a source file
+base/LogStream.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_math.dir/build.make CMakeFiles/graph_math.dir/base/LogStream.cpp.i
+.PHONY : base/LogStream.cpp.i
+
+base/LogStream.s: base/LogStream.cpp.s
+.PHONY : base/LogStream.s
+
+# target to generate assembly for a file
+base/LogStream.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/graph_math.dir/build.make CMakeFiles/graph_math.dir/base/LogStream.cpp.s
+.PHONY : base/LogStream.cpp.s
+
 ex_study.o: ex_study.cpp.o
 .PHONY : ex_study.o
 
@@ -315,6 +339,9 @@ help:
 	@echo "... Thread.o"
 	@echo "... Thread.i"
 	@echo "... Thread.s"
+	@echo "... base/LogStream.o"
+	@echo "... base/LogStream.i"
+	@echo "... base/LogStream.s"
 	@echo "... ex_study.o"
 	@echo "... ex_study.i"
 	@echo "... ex_study.s"

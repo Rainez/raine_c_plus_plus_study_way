@@ -422,4 +422,8 @@ CMakeFiles/graph_math.dir/main.cpp.o: \
   /usr/local/include/boost/config/detail/cxx_composite.hpp \
   /usr/local/include/boost/detail/workaround.hpp \
   /usr/local/include/boost/config/workaround.hpp \
-  /usr/local/include/boost/core/addressof.hpp
+  /usr/local/include/boost/core/addressof.hpp \
+  /Users/lianjing/Documents/graph_math/base/LogStream.h \
+  /Users/lianjing/Documents/graph_math/base/../noncopyable.hpp \
+  /Users/lianjing/Documents/graph_math/base/../predefined_symbol.hpp \
+  /Users/lianjing/Documents/graph_math/base/StringPiece.h

@@ -567,7 +567,8 @@ struct PureObj {
 };
 
 #include <deque>
-#include "Timestamp.h"
+#include "Timestamp.h" 
+#include "base/LogStream.h"
 int main(void) {
     PureObj obj;
     deque<int> value;
@@ -593,12 +594,14 @@ int main(void) {
     raine::Thread myThread([](){
         std::cout << raine::CurrentThread::tidString() << std::endl;
         std::cout <<raine::CurrentThread::stackTrace(true) << std::endl;
-        std::cout << "hello world" << std::endl;
     });
     std::cout << counter << std::endl;
     std::string stack = raine::CurrentThread::stackTrace(false);
     std::cout << stack << std::endl;
     myThread.start();
     myThread.join();
+    raine::LogStream stream;
+    stream << "hello worldZ";
+    std::cout << stream.buffer().toString() << std::endl;
     return 0;
 }

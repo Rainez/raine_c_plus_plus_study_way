@@ -73,105 +73,120 @@ CMakeFiles/graph_math.dir/CurrentThread.cpp.o: CMakeFiles/graph_math.dir/flags.m
 CMakeFiles/graph_math.dir/CurrentThread.cpp.o: ../CurrentThread.cpp
 CMakeFiles/graph_math.dir/CurrentThread.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/graph_math.dir/CurrentThread.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/CurrentThread.cpp.o -MF CMakeFiles/graph_math.dir/CurrentThread.cpp.o.d -o CMakeFiles/graph_math.dir/CurrentThread.cpp.o -c /Users/lianjing/Documents/graph_math/CurrentThread.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/CurrentThread.cpp.o -MF CMakeFiles/graph_math.dir/CurrentThread.cpp.o.d -o CMakeFiles/graph_math.dir/CurrentThread.cpp.o -c /Users/lianjing/Documents/graph_math/CurrentThread.cpp
 
 CMakeFiles/graph_math.dir/CurrentThread.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/CurrentThread.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/CurrentThread.cpp > CMakeFiles/graph_math.dir/CurrentThread.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/CurrentThread.cpp > CMakeFiles/graph_math.dir/CurrentThread.cpp.i
 
 CMakeFiles/graph_math.dir/CurrentThread.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/CurrentThread.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/CurrentThread.cpp -o CMakeFiles/graph_math.dir/CurrentThread.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/CurrentThread.cpp -o CMakeFiles/graph_math.dir/CurrentThread.cpp.s
 
 CMakeFiles/graph_math.dir/Exception.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/Exception.cpp.o: ../Exception.cpp
 CMakeFiles/graph_math.dir/Exception.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/graph_math.dir/Exception.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/Exception.cpp.o -MF CMakeFiles/graph_math.dir/Exception.cpp.o.d -o CMakeFiles/graph_math.dir/Exception.cpp.o -c /Users/lianjing/Documents/graph_math/Exception.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/Exception.cpp.o -MF CMakeFiles/graph_math.dir/Exception.cpp.o.d -o CMakeFiles/graph_math.dir/Exception.cpp.o -c /Users/lianjing/Documents/graph_math/Exception.cpp
 
 CMakeFiles/graph_math.dir/Exception.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/Exception.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/Exception.cpp > CMakeFiles/graph_math.dir/Exception.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/Exception.cpp > CMakeFiles/graph_math.dir/Exception.cpp.i
 
 CMakeFiles/graph_math.dir/Exception.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/Exception.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/Exception.cpp -o CMakeFiles/graph_math.dir/Exception.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/Exception.cpp -o CMakeFiles/graph_math.dir/Exception.cpp.s
 
 CMakeFiles/graph_math.dir/Thread.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/Thread.cpp.o: ../Thread.cpp
 CMakeFiles/graph_math.dir/Thread.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/graph_math.dir/Thread.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/Thread.cpp.o -MF CMakeFiles/graph_math.dir/Thread.cpp.o.d -o CMakeFiles/graph_math.dir/Thread.cpp.o -c /Users/lianjing/Documents/graph_math/Thread.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/Thread.cpp.o -MF CMakeFiles/graph_math.dir/Thread.cpp.o.d -o CMakeFiles/graph_math.dir/Thread.cpp.o -c /Users/lianjing/Documents/graph_math/Thread.cpp
 
 CMakeFiles/graph_math.dir/Thread.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/Thread.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/Thread.cpp > CMakeFiles/graph_math.dir/Thread.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/Thread.cpp > CMakeFiles/graph_math.dir/Thread.cpp.i
 
 CMakeFiles/graph_math.dir/Thread.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/Thread.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/Thread.cpp -o CMakeFiles/graph_math.dir/Thread.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/Thread.cpp -o CMakeFiles/graph_math.dir/Thread.cpp.s
+
+CMakeFiles/graph_math.dir/base/LogStream.cpp.o: CMakeFiles/graph_math.dir/flags.make
+CMakeFiles/graph_math.dir/base/LogStream.cpp.o: ../base/LogStream.cpp
+CMakeFiles/graph_math.dir/base/LogStream.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/graph_math.dir/base/LogStream.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/base/LogStream.cpp.o -MF CMakeFiles/graph_math.dir/base/LogStream.cpp.o.d -o CMakeFiles/graph_math.dir/base/LogStream.cpp.o -c /Users/lianjing/Documents/graph_math/base/LogStream.cpp
+
+CMakeFiles/graph_math.dir/base/LogStream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/base/LogStream.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/base/LogStream.cpp > CMakeFiles/graph_math.dir/base/LogStream.cpp.i
+
+CMakeFiles/graph_math.dir/base/LogStream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/base/LogStream.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/base/LogStream.cpp -o CMakeFiles/graph_math.dir/base/LogStream.cpp.s
 
 CMakeFiles/graph_math.dir/ex_study.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/ex_study.cpp.o: ../ex_study.cpp
 CMakeFiles/graph_math.dir/ex_study.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/graph_math.dir/ex_study.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/ex_study.cpp.o -MF CMakeFiles/graph_math.dir/ex_study.cpp.o.d -o CMakeFiles/graph_math.dir/ex_study.cpp.o -c /Users/lianjing/Documents/graph_math/ex_study.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/graph_math.dir/ex_study.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/ex_study.cpp.o -MF CMakeFiles/graph_math.dir/ex_study.cpp.o.d -o CMakeFiles/graph_math.dir/ex_study.cpp.o -c /Users/lianjing/Documents/graph_math/ex_study.cpp
 
 CMakeFiles/graph_math.dir/ex_study.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/ex_study.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/ex_study.cpp > CMakeFiles/graph_math.dir/ex_study.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/ex_study.cpp > CMakeFiles/graph_math.dir/ex_study.cpp.i
 
 CMakeFiles/graph_math.dir/ex_study.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/ex_study.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/ex_study.cpp -o CMakeFiles/graph_math.dir/ex_study.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/ex_study.cpp -o CMakeFiles/graph_math.dir/ex_study.cpp.s
 
 CMakeFiles/graph_math.dir/jpegparser.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/jpegparser.cpp.o: ../jpegparser.cpp
 CMakeFiles/graph_math.dir/jpegparser.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/graph_math.dir/jpegparser.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/jpegparser.cpp.o -MF CMakeFiles/graph_math.dir/jpegparser.cpp.o.d -o CMakeFiles/graph_math.dir/jpegparser.cpp.o -c /Users/lianjing/Documents/graph_math/jpegparser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/graph_math.dir/jpegparser.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/jpegparser.cpp.o -MF CMakeFiles/graph_math.dir/jpegparser.cpp.o.d -o CMakeFiles/graph_math.dir/jpegparser.cpp.o -c /Users/lianjing/Documents/graph_math/jpegparser.cpp
 
 CMakeFiles/graph_math.dir/jpegparser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/jpegparser.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/jpegparser.cpp > CMakeFiles/graph_math.dir/jpegparser.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/jpegparser.cpp > CMakeFiles/graph_math.dir/jpegparser.cpp.i
 
 CMakeFiles/graph_math.dir/jpegparser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/jpegparser.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/jpegparser.cpp -o CMakeFiles/graph_math.dir/jpegparser.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/jpegparser.cpp -o CMakeFiles/graph_math.dir/jpegparser.cpp.s
 
 CMakeFiles/graph_math.dir/main.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/main.cpp.o: ../main.cpp
 CMakeFiles/graph_math.dir/main.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/graph_math.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/main.cpp.o -MF CMakeFiles/graph_math.dir/main.cpp.o.d -o CMakeFiles/graph_math.dir/main.cpp.o -c /Users/lianjing/Documents/graph_math/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/graph_math.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/main.cpp.o -MF CMakeFiles/graph_math.dir/main.cpp.o.d -o CMakeFiles/graph_math.dir/main.cpp.o -c /Users/lianjing/Documents/graph_math/main.cpp
 
 CMakeFiles/graph_math.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/main.cpp > CMakeFiles/graph_math.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/main.cpp > CMakeFiles/graph_math.dir/main.cpp.i
 
 CMakeFiles/graph_math.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/main.cpp -o CMakeFiles/graph_math.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/main.cpp -o CMakeFiles/graph_math.dir/main.cpp.s
 
 CMakeFiles/graph_math.dir/mp4unboxer.cpp.o: CMakeFiles/graph_math.dir/flags.make
 CMakeFiles/graph_math.dir/mp4unboxer.cpp.o: ../mp4unboxer.cpp
 CMakeFiles/graph_math.dir/mp4unboxer.cpp.o: CMakeFiles/graph_math.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/graph_math.dir/mp4unboxer.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/mp4unboxer.cpp.o -MF CMakeFiles/graph_math.dir/mp4unboxer.cpp.o.d -o CMakeFiles/graph_math.dir/mp4unboxer.cpp.o -c /Users/lianjing/Documents/graph_math/mp4unboxer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/graph_math.dir/mp4unboxer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph_math.dir/mp4unboxer.cpp.o -MF CMakeFiles/graph_math.dir/mp4unboxer.cpp.o.d -o CMakeFiles/graph_math.dir/mp4unboxer.cpp.o -c /Users/lianjing/Documents/graph_math/mp4unboxer.cpp
 
 CMakeFiles/graph_math.dir/mp4unboxer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/graph_math.dir/mp4unboxer.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/mp4unboxer.cpp > CMakeFiles/graph_math.dir/mp4unboxer.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lianjing/Documents/graph_math/mp4unboxer.cpp > CMakeFiles/graph_math.dir/mp4unboxer.cpp.i
 
 CMakeFiles/graph_math.dir/mp4unboxer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/graph_math.dir/mp4unboxer.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/mp4unboxer.cpp -o CMakeFiles/graph_math.dir/mp4unboxer.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lianjing/Documents/graph_math/mp4unboxer.cpp -o CMakeFiles/graph_math.dir/mp4unboxer.cpp.s
 
 # Object files for target graph_math
 graph_math_OBJECTS = \
 "CMakeFiles/graph_math.dir/CurrentThread.cpp.o" \
 "CMakeFiles/graph_math.dir/Exception.cpp.o" \
 "CMakeFiles/graph_math.dir/Thread.cpp.o" \
+"CMakeFiles/graph_math.dir/base/LogStream.cpp.o" \
 "CMakeFiles/graph_math.dir/ex_study.cpp.o" \
 "CMakeFiles/graph_math.dir/jpegparser.cpp.o" \
 "CMakeFiles/graph_math.dir/main.cpp.o" \
@@ -183,6 +198,7 @@ graph_math_EXTERNAL_OBJECTS =
 graph_math: CMakeFiles/graph_math.dir/CurrentThread.cpp.o
 graph_math: CMakeFiles/graph_math.dir/Exception.cpp.o
 graph_math: CMakeFiles/graph_math.dir/Thread.cpp.o
+graph_math: CMakeFiles/graph_math.dir/base/LogStream.cpp.o
 graph_math: CMakeFiles/graph_math.dir/ex_study.cpp.o
 graph_math: CMakeFiles/graph_math.dir/jpegparser.cpp.o
 graph_math: CMakeFiles/graph_math.dir/main.cpp.o
@@ -234,7 +250,7 @@ graph_math: /usr/local/opt/opencv@3/lib/libopencv_photo.3.4.14.dylib
 graph_math: /usr/local/opt/opencv@3/lib/libopencv_imgproc.3.4.14.dylib
 graph_math: /usr/local/opt/opencv@3/lib/libopencv_core.3.4.14.dylib
 graph_math: CMakeFiles/graph_math.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable graph_math"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lianjing/Documents/graph_math/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable graph_math"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/graph_math.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

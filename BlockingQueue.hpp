@@ -11,7 +11,7 @@ class BlockingQueue: noncopyable {
 public:
     using queue_type = std::deque<T>
     
-    BlockingQueue(int capacity = 16): lock(),
+    BlockingQueue(int capacity = INT32_MAX): lock(),
                      nonEmptyCond(lock),
                      fullCond(lock),
                      capacity_(capacity),
@@ -45,6 +45,18 @@ public:
         queue_.pop_front();
         return obj;
     }
+
+    queue_type pollAll() {
+        queue_type q;
+        {
+            MutexLockGuard guard(lock);
+            q=std::move(queue_);
+            assert(queue_.empty());
+        }
+
+    }
+
+
 
 private:
     MutexLock lock;

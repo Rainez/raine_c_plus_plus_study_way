@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/graph_math.dir/Exception.cpp.o.d"
   "CMakeFiles/graph_math.dir/Thread.cpp.o"
   "CMakeFiles/graph_math.dir/Thread.cpp.o.d"
+  "CMakeFiles/graph_math.dir/base/LogStream.cpp.o"
+  "CMakeFiles/graph_math.dir/base/LogStream.cpp.o.d"
   "CMakeFiles/graph_math.dir/ex_study.cpp.o"
   "CMakeFiles/graph_math.dir/ex_study.cpp.o.d"
   "CMakeFiles/graph_math.dir/jpegparser.cpp.o"

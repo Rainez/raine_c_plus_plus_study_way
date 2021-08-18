@@ -16,7 +16,7 @@ if (NOT  Boost_FOUND)
     message(FATAL_ERROR "Could not find boost")
 endif()
 
-file(GLOB SRC_FILE *.cpp)
+file(GLOB SRC_FILE *.cpp base/*.cpp)
 set(CMAKE_CXX_STANDARD 11)
 add_executable(${PROJECT_NAME} ${SRC_FILE})
 target_link_libraries( graph_math ${OpenCV_LIBS} ${GLUT_LIBRARY} ${OPENGL_LIBRARY} ${Boost_LIBRARY})
